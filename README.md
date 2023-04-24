@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Victorhez, a full-time Frontend freelance developer and UIUX designer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Victorhez, a full-time Frontend freelance developer and UIUX designer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
 - 🔭 I’m currently working on [FinTech Bank](https://www.opayweb.com/)  
